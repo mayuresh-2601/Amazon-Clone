@@ -1,0 +1,149 @@
+### INTRO (0:00 – 0:30)
+
+Hello everyone, my name is Mayuresh Kasar.
+In this video, I will walk you through my **Amazon Clone frontend project**, which I built using **HTML, CSS, and JavaScript**.
+
+I will explain the **UI, functionality, responsiveness, and design decisions**, while showing the live website in Google Chrome.
+
+---
+
+### STEP 1 – PROJECT OVERVIEW (0:30 – 1:00)
+
+This project is a **frontend-only clone of the Amazon homepage**.
+The main goal was to understand how **real-world e-commerce UIs are structured**, how layouts are built, and how **user interactions** are handled.
+
+The project focuses on:
+
+* Clean UI structure
+* Responsive design
+* Basic JavaScript interactivity
+* Accessibility best practices
+
+---
+
+### STEP 2 – NAVIGATION BAR (1:00 – 1:40)
+
+👉 *Scroll to top, point to navbar*
+
+This is the **navigation bar**, which is the most important part of any e-commerce website.
+
+Here we have:
+
+* Amazon logo
+* Delivery location
+* Search bar
+* Account and orders section
+* Cart icon
+
+I built this using **Flexbox**, so all elements stay properly aligned across screen sizes.
+When I scroll down, you can see that the navbar becomes **sticky**, which is handled using JavaScript.
+
+This improves user experience and matches real production websites.
+
+---
+
+### STEP 3 – SEARCH FUNCTIONALITY (1:40 – 2:10)
+
+👉 *Type something in search box*
+
+The search bar is interactive.
+
+When I type a product name and click the search icon or press Enter, JavaScript captures the input and simulates a search action.
+
+If the input is empty, it shows a validation message.
+This demonstrates **event handling, DOM manipulation, and input validation**.
+
+---
+
+### STEP 4 – HERO SECTION (2:10 – 2:30)
+
+👉 *Scroll slightly down*
+
+This is the **hero section**, similar to Amazon’s promotional banner.
+
+It includes:
+
+* A background image
+* Informational text
+* A clickable link
+
+I added a smooth animation so the content loads gracefully, improving visual appeal without affecting performance.
+
+---
+
+### STEP 5 – PRODUCT CATEGORY SECTION (2:30 – 3:30)
+
+👉 *Scroll through product boxes*
+
+This is the **main product category section**.
+
+Each card represents a category such as:
+
+* Clothes
+* Electronics
+* Furniture
+* Beauty
+* Pet Care
+
+Each card contains:
+
+* A title
+* Background image
+* “See more” link
+
+All cards follow a **reusable layout pattern**, which makes the UI clean and scalable.
+Hover effects provide visual feedback, making the interface more interactive.
+
+---
+
+### STEP 6 – CART COUNTER LOGIC (3:30 – 4:00)
+
+👉 *Click on “See more” links*
+
+When I click on any “See more” link, the **cart count increases dynamically**.
+
+This is handled using JavaScript by tracking state and updating the DOM in real time.
+
+While this is a simulation, it demonstrates **core e-commerce behavior** like cart updates and user feedback.
+
+---
+
+### STEP 7 – RESPONSIVE DESIGN (4:00 – 4:30)
+
+👉 *Resize browser window*
+
+Now I will resize the browser to show responsiveness.
+
+You can see that:
+
+* Layout adjusts automatically
+* Product cards stack vertically
+* Navigation adapts for smaller screens
+
+This is achieved using **media queries**, ensuring the site works smoothly on desktop, tablet, and mobile devices.
+
+---
+
+### STEP 8 – FOOTER & UX FEATURES (4:30 – 4:50)
+
+👉 *Scroll to bottom, click Back to Top*
+
+The footer contains:
+
+* Informational links
+* Social media references
+* Legal links
+
+The “Back to Top” button uses **smooth scrolling**, implemented in JavaScript to improve user experience.
+
+---
+
+### CONCLUSION (4:50 – 5:00)
+
+To conclude, this Amazon Clone project demonstrates my **frontend fundamentals**, UI design skills, and JavaScript logic.
+
+This project can be further extended using **React, APIs, and backend integration**.
+
+Thank you for watching.
+
+---
