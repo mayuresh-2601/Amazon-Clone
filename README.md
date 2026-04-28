@@ -2,9 +2,11 @@
 
 ![Amazon Clone Banner](asset/amazon_logo.png)
 
+---
+
 ## 📌 Project Overview
 
-This project is a fully responsive Amazon homepage clone built using **HTML, CSS, and JavaScript**.
+This project is a fully responsive **Amazon homepage clone** built using **HTML, CSS, and JavaScript**.
 
 It replicates the core UI layout and interactive features of Amazon’s landing page, including navigation, product sections, search functionality, cart simulation, and responsive design behavior.
 
@@ -22,19 +24,21 @@ The goal of this project was to strengthen frontend development skills and under
 
 ## 🎯 Key Features
 
-✔ Responsive Navigation Bar  
-✔ Product Category Cards  
-✔ Search Functionality (JavaScript-based)  
-✔ Cart Counter Simulation  
-✔ Sticky Navbar on Scroll  
-✔ Smooth “Back to Top” Button  
-✔ Mobile Menu Toggle  
-✔ Hover Animations & Effects  
-✔ Fully Responsive Layout (Media Queries)
+- Responsive navigation bar  
+- Product category cards  
+- Search functionality (JavaScript-based)  
+- Cart counter simulation  
+- Sticky navbar on scroll  
+- Smooth "Back to Top" button  
+- Mobile menu toggle  
+- Hover animations and visual effects  
+- Fully responsive layout using media queries  
 
 ---
 
 ## 🛠️ Technologies Used
+
+### Frontend
 
 - HTML5 (Semantic structure)
 - CSS3 (Flexbox, Media Queries, Animations)
@@ -45,6 +49,7 @@ The goal of this project was to strengthen frontend development skills and under
 
 ## 📂 Project Structure
 
+```
 Amazon-Clone/
 │
 ├── index.html
@@ -57,7 +62,7 @@ Amazon-Clone/
 ├── box2_image.jpg
 └── ...
 
-
+```
 ---
 
 ## 🧠 JavaScript Functionalities Implemented
@@ -110,7 +115,9 @@ Amazon-Clone/
 ## 🚀 How to Run This Project Locally
 
 1. Clone this repository:
+```
 git clone https://github.com/mayuresh-2601/Amazon-Clone.git
+```
 
 2. Open the project folder
 3. Open `index.html` in your browser
