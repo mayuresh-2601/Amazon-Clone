@@ -3,7 +3,7 @@
 ![Amazon Clone Banner](asset/amazon_logo.png)
 
 ---
-
+                               
 ## 📌 Project Overview
 
 This project is a fully responsive **Amazon homepage clone** built using **HTML, CSS, and JavaScript**.
